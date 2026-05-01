@@ -1,18 +1,18 @@
 # Syed Sahil
-### GATE 2026 AIR 1489 | Passionate about building real-world AI applications
+### GATE 2026 AIR 1489 | Machine Learning & Backend Systems
 
-Software Developer with interests in Web Systems and Artificial Intelligence, focused on building practical and scalable solutions.
+Focused on building practical ML systems with measurable performance and real-world applications.
 
 ---
 
 ## 🚀 Key Projects
 
 - **FallGuard**  
-  Deep learning-based fall detection system using time-series data (InceptionTime, LSTM, TCN). Achieved ~98.8% accuracy on KFall dataset.  
+  Deep learning-based fall detection using time-series sensor datasets. Models: InceptionTime, LSTM, TCN. Achieved ~98.8% accuracy on KFall dataset.  
   https://github.com/SyedSahil80328/FallGuard  
 
 - **NavAid**  
-  Raspberry Pi-based real-time object detection system with voice alerts for assistive navigation (91 classes supported).  
+  Raspberry Pi-based real-time object detection system with voice-guided navigation (91 classes supported).  
   https://github.com/SyedSahil80328/NavAid  
 
 - **RailNet**  
